@@ -12,7 +12,7 @@ INSTALLATION
 
 To run this program, ensure that you have Java installed on your system.
 1. Clone the repository:
-git clone 	https://github.com/someshsingh-7251/StudentPercentageCalculator.git
+git clone 	https://github.com/someshsingh-7251/Student-Percentage-Calculator.git
 2. Navigate to the project directory:
 cd StudentPercentageCalculator
 3. Compile the Java program:
