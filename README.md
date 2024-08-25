@@ -1,4 +1,4 @@
-                       STUDENT PERCENTAGE CALCULATOR
+                           STUDENT PERCENTAGE CALCULATOR
 
 This repository contains a simple Java program called Student Percentage Calculator. This program calculates the percentage of marks obtained by a student based on the total marks and marks obtained in various subjects.
 
@@ -12,7 +12,7 @@ INSTALLATION
 
 To run this program, ensure that you have Java installed on your system.
 1. Clone the repository:
-git clone 	https://github.com/yourusername/StudentPercentageCalculator.git
+git clone 	https://github.com/someshsingh-7251/StudentPercentageCalculator.git
 2. Navigate to the project directory:
 cd StudentPercentageCalculator
 3. Compile the Java program:
