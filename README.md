@@ -1,15 +1,14 @@
-                           STUDENT PERCENTAGE CALCULATOR
+## STUDENT PERCENTAGE CALCULATOR
 
 This repository contains a simple Java program called Student Percentage Calculator. This program calculates the percentage of marks obtained by a student based on the total marks and marks obtained in various subjects.
 
-FEATURES
+## Features
 1. Input marks for different subjects.
 2. Calculate total marks obtained.
 3. Calculate the percentage of marks.
 4. Display the result.
 
-INSTALLATION
-
+## Installation
 To run this program, ensure that you have Java installed on your system.
 1. Clone the repository:
 
@@ -24,7 +23,7 @@ To run this program, ensure that you have Java installed on your system.
  
        java StudentPercentageCalculator
 
-USAGE
+## Usage
 
 After running the program, you will be prompted to enter the marks for various subjects. The program will then calculate and display the percentage of marks obtained.
 
@@ -44,7 +43,7 @@ Total Marks Obtained: 433
 
 Percentage: 86.60%
 
-CODE
+## Code
 
 
     import java.util.Scanner;
@@ -81,12 +80,11 @@ CODE
 
     }
 
-CONTRIBUTING
+## Contributing
 
 Contributions are welcome! If you would like to improve this program or add new features, feel free to fork the repository and submit a pull request.
 
-LICENSE
-
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 To create the PDF:
@@ -95,7 +93,7 @@ To create the PDF:
 2. Paste it into your preferred text editor or Markdown editor.
 3. Use an online Markdown-to-PDF converter or a tool like Pandoc to generate the PDF file.
 
-DISCLAIMER
+## DIsclaimer
 
 This README may include affiliate links, supporting the creator at no extra cost to you. The links allow for better optimization of this repository and related tools. Check out these tools for advanced content creation and detection:
 1. Undetectable.ai
@@ -106,4 +104,5 @@ For advanced AI detection tools:
 1. CopyLeaks
 2. GPTZero
 
-Note: Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==
+## Note:
+Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==
