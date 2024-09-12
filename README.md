@@ -1,4 +1,4 @@
-## STUDENT PERCENTAGE CALCULATOR
+# STUDENT PERCENTAGE CALCULATOR
 
 This repository contains a simple Java program called Student Percentage Calculator. This program calculates the percentage of marks obtained by a student based on the total marks and marks obtained in various subjects.
 
@@ -104,5 +104,6 @@ For advanced AI detection tools:
 1. CopyLeaks
 2. GPTZero
 
-## Note:
-Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==
+---
+
+*Note: Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==*
